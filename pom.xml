@@ -5,7 +5,7 @@
   <artifactId>MavenWebApp</artifactId>
   <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>MavenWebApp Maven Webapp</name>
+  <name>MavenWebApp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
